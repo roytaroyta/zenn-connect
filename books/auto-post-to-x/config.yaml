@@ -4,14 +4,14 @@ topics: ["typescript", "github-actions"]
 published: true
 price: 0
 chapters:
-  - 00.overview.md
-  - 01.setup.md
-  - 02.secrets-and-env.md
-  - 03.workflow.md
-  - 04.local-run.md
-  - 05.storage-and-duplication.md
-  - 06.monitoring-and-logging.md
-  - 07.prompt-design.md
-  - 08.testing-and-dry-run.md
-  - 09.troubleshooting.md
+  - 00-overview.md
+  - 01-setup.md
+  - 02-secrets-and-env.md
+  - 03-workflow.md
+  - 04-local-run.md
+  - 05-storage-and-duplication.md
+  - 06-monitoring-and-logging.md
+  - 07-prompt-design.md
+  - 08-testing-and-dry-run.md
+  - 09-troubleshooting.md
 toc_depth: 1
