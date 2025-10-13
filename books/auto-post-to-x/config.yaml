@@ -7,7 +7,7 @@ chapters:
   - 00-overview.md
   - 01-setup.md
   - 02-secrets-and-env.md
-  - 03-workflow.md
+  - 03-workflows.md
   - 04-local-run.md
   - 05-storage-and-duplication.md
   - 06-monitoring-and-logging.md
